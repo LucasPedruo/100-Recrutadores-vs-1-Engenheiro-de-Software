@@ -1,4 +1,4 @@
-### 100 Recruiters x 1 Engenheiro de software 
+# 100 Recruiters x 1 Engenheiro de software 
 
 No meu tempo livre, me amarro em assistir vídeos sobre tecnologia e carreira
 
@@ -26,11 +26,11 @@ Fiz follow-up duas vezes, mas fui ignorado em 99,9% das abordagens…
 
 Exceto por uma pessoa que se dispôs a compartilhar um pouco do seu tempo comigo.
 
-Obrigado Alice Lobos 🙏
+Obrigado, Alice Lobos: https://www.linkedin.com/in/alice-lobos-159028218/ 🙏
 
 A ideia era trazer em um formato de vídeo, mas como o volume de respostas foi baixo para fazer médias estatísticas, vou fazer direto aqui.
 
-Perguntas e respostas: 
+## Perguntas e respostas: 
 
 1. Tem algo que você vê com frequência em perfis e considera um red flag?
 Compartilhamento de posts de cunho político-partidário, comentários opinativos e polêmicos em publicações alheias, críticas a antigos empregadores… Em suma, qualquer comportamento antiprofissional ou antiético é um red flag. Evite se envolver em discussões acaloradas, pois suas interações ficam registradas e podem revelar características comportamentais indesejáveis.
